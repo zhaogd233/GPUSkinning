@@ -1,4 +1,5 @@
 ## GPUSkinning to improve performance.
+##支持 动画过渡，lod,挂点
 
 ### [v0.2.3 release](https://github.com/chengkehan/GPUSkinning/releases/tag/v0.2.3)
 
@@ -16,9 +17,9 @@ Features:
 
 Features:
 
-* Animation Blend
+* Animation Blend 动画过渡
 
-* Level of Detail
+* Level of Detail LOD
 
 * Optimization
 
